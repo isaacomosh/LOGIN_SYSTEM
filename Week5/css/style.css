@@ -1,0 +1,32 @@
+body{
+    background-color: #efefef;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.user-card{
+    width: 450px;
+    background: #d9d9d9;
+    padding: 22px;
+    border-radius: 14px;
+    margin-bottom: 20px;
+}
+
+.username{
+    font-size: 22px;
+    font-weight: 500;
+    color: #222;
+}
+
+.custom-btn{
+    background: #000;
+    color: white;
+    width: 120px;
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.custom-btn:hover{
+    background: #222;
+    color: white;
+}
